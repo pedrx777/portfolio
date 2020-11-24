@@ -9,5 +9,5 @@ The control of the tasks of this project will be carried out in github
 
 :package: new functionality
 :up: update
-:beatle: bug fix
+:bug: bug fix
 :checkered_flag: release
